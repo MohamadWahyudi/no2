@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+librosa
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
